@@ -1,6 +1,6 @@
-# Minimal nginx reverse proxy demo
+# Chat app nginx reverse proxy 
 
-This repository contains a `docker-compose` orchestrated application with Flask and Vue services running behind an nginx reverse proxy.
+This repository contains a `docker-compose` orchestrated application with Django and Vue services running behind an nginx reverse proxy.
 
 ## Running
 
